@@ -12,18 +12,14 @@ Demonstrates:
 * Specifying a template
 * Specifying a shared layout
 
-Source: https://github.com/lukevenediger/champ-examples/one-page-one-template/output/
-
-Output: https://github.com/lukevenediger/champ-examples/one-page-one-template/output/index.html
+Source: https://github.com/lukevenediger/champ-examples/tree/master/one-page-one-template
 
 ### Use Any Parameter In Template
 
 Demonstrates:
 * passing data from a page to a template
 
-Source: https://github.com/lukevenediger/champ-examples/use-any-parameter-in-template/
-
-Output: https://github.com/lukevenediger/champ-examples/use-any-parameter-in-template/output/index.html
+Source: https://github.com/lukevenediger/champ-examples/tree/master/use-any-parameter-in-template
 
 ### Simple List
 
@@ -33,9 +29,7 @@ Demonstrates:
 
 This is useful if you're using champ to generate content for a blog.
 
-Source: https://github.com/lukevenediger/champ-examples/simple-list/
-
-Output: https://github.com/lukevenediger/champ-examples/simple-list/output/index.html
+Source: https://github.com/lukevenediger/champ-examples/tree/master/simple-list
 
 ## More Examples
 
