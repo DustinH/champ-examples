@@ -1,0 +1,12 @@
+@{
+	Layout = "~/_layout.cshtml";
+}
+
+<h2>Page Title: @ViewBag.Title</h2>
+
+<p>Hello from the page.cshtml template!</p>
+
+<p>Hello, param1: @ViewBag.param1</p>
+
+<!-- This will insert the rendered markdown content -->
+@Model.Content
